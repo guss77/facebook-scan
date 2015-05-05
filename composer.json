@@ -1,0 +1,8 @@
+{
+  "require" : {
+    "facebook/php-sdk-v4" : "4.0.*",
+    "kohana/core": "3.4.x-dev",
+    "kohana/minion": "3.4.x-dev",
+		"paquettg/php-html-parser": "dev-master"
+  }
+}
